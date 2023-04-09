@@ -1,0 +1,19 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+header.bg-primary {
+    background-image: url("Links/othersharkgif.gif") !important;
+    width: 100% !important;
+    height: 700px !important;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
